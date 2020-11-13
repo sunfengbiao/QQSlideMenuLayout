@@ -1,5 +1,5 @@
-# SlideMenuLayout
-Android进阶之旅-->自定义view-->酷狗侧滑菜单
+# QQSlideMenuLayout
+Android进阶之旅-->自定义view-->QQ6.0侧滑菜单
 # View绘制流程:
 ViewRootImpl: requestLayout()-->performTraversals()<测量，摆放，绘制>
 ## 1.测量：
